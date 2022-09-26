@@ -33,6 +33,12 @@ A model is at the heart of JavaScript based applications, and it is what makes i
 
 # MONGODB DATABASE
 
-We need a database where we will store our data. For this we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS).
+We need a database where we will store our data. For this we will make use of mLab. mLab provides MongoDB database as a service solution (DBaaS). sign up on https://www.mongodb.com/atlas-signup-from-mlab. Follow the sign up process, select AWS as the cloud provider, and choose a region near you.
+
+![Cluster](https://user-images.githubusercontent.com/110794738/192343959-12f99c09-48bb-45ad-a3d6-a40fedf76974.PNG)
+
 
 ![mongob](https://user-images.githubusercontent.com/110794738/191280255-0f7f8e36-1fbf-41a4-9e6c-9bf630aee52d.PNG)
+
+![Server running](https://user-images.githubusercontent.com/110794738/192383813-10799379-5a43-47e4-8f03-27afac20d10e.PNG)
+
