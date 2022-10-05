@@ -42,3 +42,13 @@ We need a database where we will store our data. For this we will make use of mL
 
 ![Server running](https://user-images.githubusercontent.com/110794738/192383813-10799379-5a43-47e4-8f03-27afac20d10e.PNG)
 
+Testing Backend Code without Frontend using RESTful API
+
+In this project, we will use Postman to test our API.
+
+![Postman](https://user-images.githubusercontent.com/110794738/194048156-221c85ca-a300-4522-b13b-5506a4209122.PNG)
+
+# STEP 2 – FRONTEND CREATION
+
+Since we are done with the functionality we want from our backend and API, it is time to create a user interface for a Web client (browser) to interact with the application via API. To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app
+
